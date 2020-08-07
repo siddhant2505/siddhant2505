@@ -28,7 +28,7 @@
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="java" width="26px" src="https://camo.githubusercontent.com/e452723eea68a1405530c3e87f1723d483a0e674/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6a6176612e737667" />
 
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
@@ -49,7 +49,7 @@
 <!-- PROJECT:START -->
 
 - [Restaurant Website using React JS for The Bungalow Udaipur's Restaurant](https://thebungalowudaipur.netlify.app/)
-- [SchoolFlare project using CSS, SASS and React JS with lot of customized CSS animations](https://schoolflare.netlify.app/)
+- [SchoolFlare project using CSS, SASS and React JS with lots of customized CSS animations](https://schoolflare.netlify.app/)
 - [Basic CSS Animation single Webpage Application](http://shielded-bastion-62310.herokuapp.com/)
 <!-- PROJECT:END -->
 
