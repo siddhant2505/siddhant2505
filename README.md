@@ -9,6 +9,7 @@
   -> Working on a side-project named SchoolFlare <br />
 
   -> Also contributed in building website for the Bungalow Udaipur restaurant <br />
+  
   -> Also created a dynamic app for creating tournament along with setting number of teams with their schedule and Points table functionality getting auto updated after each match   <br />
 
   -> Interned at IndiaBuys Hyderabad and helped them design the UI for their mobile application
