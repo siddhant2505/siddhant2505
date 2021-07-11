@@ -1,6 +1,6 @@
 ### Hey, my name is Siddhant 👋
 
-## I'm a 3rd year student at Bits Pilani and an intermediate React Developer
+## I'm a 4th year student at Bits Pilani and an intermediate React Developer
 
 - I am currently pursuing B.E. Electrical and Electronics Engineering along with MSc. Economics in the Pilani Campus.
 - Along with being a React Developer, I have been working on App Development using React Native and building its Backend using NODEJS and MongoDB
